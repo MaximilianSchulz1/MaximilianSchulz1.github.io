@@ -1,3 +1,16 @@
 /*stylesheet*/
 html{
 }
+.navBar{
+  width: 100%;
+  background-color: whitesmoke;
+}
+.navBar ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+
+}
+.navBar ul{
+  list-style: none;
+}
